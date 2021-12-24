@@ -1,0 +1,24 @@
+{
+  "name": "proxima.io",
+  "version": "1.0.13",
+  "description": "Utilities for developing with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "js",
+    "javscript",
+    "nextjs",
+    "react",
+    "node",
+    "utilities",
+    "util"
+  ],
+  "author": "Francis Eshun",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.4"
+  }
+ 
+}
